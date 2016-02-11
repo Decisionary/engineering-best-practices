@@ -1,12 +1,12 @@
-name:          XWP Engineering Best Practices
-title:         XWP Engineering Best Practices
-description:   Project engineering best practices used by XWP (h/t 10up).
-url:           https://xwp.github.io/engineering-best-practices/
+name:          Decisionary Engineering Best Practices
+title:         Decisionary Engineering Best Practices
+description:   Project engineering best practices used by Decisionary (h/t 10up, XWP).
+url:           https://decisionary.github.io/engineering-best-practices/
 author:
-  name:    XWP
-  email:   engage@xwp.co
-  github:  xwp
-  twitter: xwp
+  name:    Decisionary
+  email:   engage@decisionarytech.com
+  github:  decisionary
+  twitter: decisionary
 
 markdown:      redcarpet
 permalink:     pretty
@@ -17,6 +17,6 @@ redcarpet:
 sass:
   sass_dir: _includes/_sass
 CONFIG:
-  BASE_PATH: https://xwp.github.io/engineering-best-practices
+  BASE_PATH: https://decisionary.github.io/engineering-best-practices
 
   ASSET_PATH: false
