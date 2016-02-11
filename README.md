@@ -1,9 +1,9 @@
-# XWP Engineering Best Practices
+# Decisionary Engineering Best Practices
 
-These are the official best practices for XWP. This guide dictates how we, as a company, engineer websites. The purpose behind them is to improve the quality of the experiences we build as well as to standardize in order to facilitate more effective collaboration.
+These are the official best practices for Decisionary. This guide dictates how we, as a company, engineer websites. The purpose behind them is to improve the quality of the experiences we build as well as to standardize in order to facilitate more effective collaboration.
 
 
-**[Start reading ☞](https://xwp.github.io/engineering-best-practices/)**
+**[Start reading ☞](https://decisionary.github.io/engineering-best-practices/)**
 
 ## Contributions
 
@@ -17,5 +17,5 @@ cd .git/hooks && ln -s ../../bin/update-toc.php pre-commit && cd -
 
 ## License
 
-This code is shamelessly forked from [10up's own Engineering Best Practices](https://github.com/10up/Engineering-Best-Practices/). As such, it is a derivative work. Why re-invent the wheel, right?
+This code is shamelessly forked from [XWP's own Engineering Best Practices](https://github.com/xwp/Engineering-Best-Practices/). As such, it is a derivative work. Why re-invent the wheel, right?
 Released under [MIT license](LICENSE.md). Copyright 2014 by 10up; [modifications](https://github.com/10up/Engineering-Best-Practices/compare/gh-pages...xwp:gh-pages) copyright 2015 by XWP.
